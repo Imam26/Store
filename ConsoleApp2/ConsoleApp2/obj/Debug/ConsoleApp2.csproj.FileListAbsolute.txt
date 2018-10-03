@@ -1,0 +1,17 @@
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Twilio.dll
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Twilio.xml
+C:\Users\СабитовИ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
